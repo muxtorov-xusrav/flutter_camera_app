@@ -2,6 +2,6 @@
 
 App for android
 
-With app you can use camera for make vidoe in block screen
+Download: ![XOXO](https://github.com/muxtorov-xusrav/flutter_camera_app/raw/main/app-arm64-v8a-release.apk)
 
-Download: (https://github.com/muxtorov-xusrav/flutter_camera_app/raw/main/app-arm64-v8a-release.apk)
+With app you can use camera for make vidoe in block screen
